@@ -5,11 +5,9 @@
 
 # MusicGenreClassification
 
-Academic research in the field of **Deep Learning (Deep Neural Networks) and Sound Processing**, Tel Aviv University.
-
 ## Abstract
 
-This paper discuss the task of classifying the music genre of a sound sample.
+This project carries out the task of classifying the music genre of a sound sample.
 
 ## Introduction
 
